@@ -38,7 +38,9 @@ namespace Calculator
                     break;
 
                 //divition
-
+                case "/":
+                    Console.WriteLine("Divition : {0}", oper.Divi(no1, no2));
+                    break;
 
                 //remainder
 
