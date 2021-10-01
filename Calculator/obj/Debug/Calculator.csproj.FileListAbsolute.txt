@@ -1,0 +1,7 @@
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.pdb
