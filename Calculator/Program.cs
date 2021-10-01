@@ -10,10 +10,10 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Number 01 : ");
+            Console.Write("Number 01 : ");
             float no1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Number 02 : ");
+            Console.Write("Number 02 : ");
             float no2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Opperation : [+, -, *, /, %]");
@@ -28,16 +28,18 @@ namespace Calculator
                     break;
 
                 //substraction
-                
-                
+                case "-":
+                    Console.WriteLine("Substraction : {0}", oper.Sub(no1, no2));
+                    break;
+
                 //multiplication
-                
+
 
                 //divition
-                
+
 
                 //remainder
-                
+
 
                 default:
                     Console.WriteLine("Invalid Operation");
