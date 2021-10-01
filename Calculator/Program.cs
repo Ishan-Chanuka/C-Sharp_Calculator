@@ -33,7 +33,9 @@ namespace Calculator
                     break;
 
                 //multiplication
-
+                case "*":
+                    Console.WriteLine("Multiplication : {0}", oper.Multi(no1, no2));
+                    break;
 
                 //divition
 
