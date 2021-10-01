@@ -43,6 +43,9 @@ namespace Calculator
                     break;
 
                 //remainder
+                case "%":
+                    Console.WriteLine("Remainder : {0}", oper.Rem(no1, no2));
+                    break;
 
 
                 default:
